@@ -1,0 +1,15 @@
+{
+    "name": "Kovyakin/Editor",
+    "description": "editor for admin panel",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "dmitrijkovakin",
+            "email": "kdv-1974@mail.ru"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    }
+}
